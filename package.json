@@ -1,7 +1,7 @@
 {
   "name": "@dn0rmand/prime-database",
   "version": "1.0.0",
-  "description": "Database of cache primes calculations for project-euler-tools",
+  "description": "Database of cached prime calculations for project-euler-tools",
   "main": "index.js",
   "repository": {
     "type": "git",
