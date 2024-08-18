@@ -3,3 +3,4 @@
 node_modules
 /src/primeCounts.sqlite
 /.npmrc
+/pnpm-lock.yaml
